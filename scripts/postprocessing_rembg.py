@@ -10,6 +10,8 @@ models = [
     "u2netp",
     "u2net_human_seg",
     "u2net_cloth_seg",
+    "u2net_custom",
+    "sam"
     "silueta",
     "isnet-general-use",
     "isnet-anime",
